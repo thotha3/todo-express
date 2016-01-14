@@ -1,6 +1,11 @@
 {
   "name": "todo-express",
   "version": "0.2.1",
+  "author": "thotha3 <thotha3@hotmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thotha3"
+  }
   "private": true,
   "scripts": {
     "start": "node app.js"
